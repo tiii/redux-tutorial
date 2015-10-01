@@ -1,0 +1,8 @@
+{
+  "ecmaFeatures": {
+    "arrowFunctions": true,
+    "classes": true,
+    "blockBindings": true,
+    "modules": true
+  }
+}
